@@ -1,3 +1,5 @@
-# cyber squatting repo
+# cysquat :: cybersquatting
 
-for domain squatting and such
+> Domains Buy Low Sell High
+
+
